@@ -3,9 +3,11 @@ AWS作成
 インスタンス作成
 第四回
 
-以下でサブネットを作成
+>以下でサブネットを作成
 
 ma-ozakik-tutorial
 10.2.11.0/24
 
-以下でEC2を作成
+>以下でEC2を作成
+ma-ozakikm-ec2-tutorial
+
